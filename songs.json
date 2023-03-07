@@ -1,0 +1,92 @@
+[
+    {
+        "title": "American Pie",
+        "year": 1971,
+        "artists": ["Don McLean"],
+        "genres": ["Folk"]
+    },
+    {
+        "title": "Wildest Dreams",
+        "year": 2014,
+        "artists": ["Taylor Swift"],
+        "genres": ["Pop"]
+    },
+    {
+        "title": "Before He Cheats",
+        "year": 2005,
+        "artists": ["Carrie Underwood"],
+        "genres": ["Country"]
+    },
+    {
+        "title": "Dynamite",
+        "year": 2009,
+        "artists": ["Taio Cruz"],
+        "genres": ["Pop"]
+    },
+    {
+        "title": "Stay",
+        "year": 2012,
+        "artists": ["Rihanna", "Ekko"],
+        "genres": ["Pop", "Hip-hop"]
+    },
+    {
+        "title": "Sweet Caroline",
+        "year": 1969,
+        "artists": ["Neil Diamond"],
+        "genres": ["Pop"]
+    },
+    {
+        "title": "Take On Me",
+        "year": 1985,
+        "artists": ["A-ha"],
+        "genres": ["Pop"]
+    },
+    {
+        "title": "How Will I Know",
+        "year": 1985,
+        "artists": ["Whitney Houston"],
+        "genres": ["Pop"]
+    },
+    {
+        "title": "Marry You",
+        "year": 2010,
+        "artists": ["Bruno Mars"],
+        "genres": ["Pop"]
+    },
+    {
+        "title": "Can't Help Falling in Love",
+        "year": 1961,
+        "artists": ["Elvis Presley"],
+        "genres": ["Pop"]
+    },
+    {
+        "title": "Tell Him",
+        "year": 1963,
+        "artists": ["The Exciters"],
+        "genres": ["Jazz"]
+    },
+    {
+        "title": "Cups",
+        "year": 2012,
+        "artists": ["Anna Kendrick"],
+        "genres": ["Folk pop"]
+    },
+    {
+        "title": "Umbrella",
+        "year": 2007,
+        "artists": ["Rihanna, Jay-Z"],
+        "genres": ["R&B/Soul"]
+    },
+    {
+        "title": "Riptide",
+        "year": 2013,
+        "artists": ["Vance Joy"],
+        "genres": ["Folk"]
+    },
+    {
+        "title": "Mr. Brightside",
+        "year": 2004,
+        "artists": ["The Killers"],
+        "genres": ["Rock"]
+    }    
+]
